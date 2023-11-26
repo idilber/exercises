@@ -1,4 +1,3 @@
-"""
 print('p','y','t',sep=',')
 a=3; b=5
 print(f"{a}+{b}=",a+b)
@@ -21,5 +20,3 @@ print('PI = {0:.3f}'.format(math.pi)) #pi sayısının virgülden sonraki 3 basa
 print ('PI =%.3f' %(math.pi)) #yukarıdaki ile eşdeğer kod
 
 print(f"PI ={math.pi:.3f}") #yukarıdaki ile eşdeğer kod
-"""
-
